@@ -19,4 +19,5 @@ Docker社のオフィシャルイメージのredmineを使用する
 
 
 ## 参考
+1. Dockerを使ってEC2にredmineを構築する(前編)  
 https://www.geekfeed.co.jp/geekblog/docker-redmine
