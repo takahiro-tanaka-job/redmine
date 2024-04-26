@@ -16,3 +16,7 @@ Docker社のオフィシャルイメージのredmineを使用する
 `http://localhost:8080/`
 + ログインID : admin
 + パスワード : admin
+
+
+## 参考
+https://www.geekfeed.co.jp/geekblog/docker-redmine
